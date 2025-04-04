@@ -12,7 +12,7 @@ public class math {
         System.out.println("'+' para soma");
         System.out.println("'-' para subtração");
         System.out.println("'*' para multiplicação");
-         System.out.println("'/' para divisão");
+        System.out.println("'/' para divisão");
         System.out.println("'^' para potenciação");
         String comand = scanner.next();
         
